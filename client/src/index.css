@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 40px;
+  color: #2a292b;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+.number-inputs {
+  margin-bottom: 20px;
+}
+
+input, select {
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid #d2c0fd;
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+}
+
+input:first-child {
+  margin-right: 20px;
+}
+
+select {
+  margin-left: 20px;
+}
+
+.calculate-button {
+  padding: 20px;
+  font-size: 30px;
+  background: #5f30e6;
+  border: none;
+  margin-bottom: 20px;
+  color: #d7cbf7;
+  cursor: pointer;
+}
+
+h2 {
+  font-size: 80px;
+}
+
+.result{
+  padding: 10px;
+  background-color: aqua;
+}
+
+.css-b62m3t-container{
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
